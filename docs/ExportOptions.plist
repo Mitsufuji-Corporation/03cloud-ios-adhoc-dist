@@ -4,6 +4,15 @@
 <dict>
 	<key>destination</key>
 	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://mitsufuji-corporation.github.io/ios-adhoc-dist/03CMSApp.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://mitsufuji-corporation.github.io/ios-adhoc-dist/icon57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://mitsufuji-corporation.github.io/ios-adhoc-dist/icon512.png</string>
+	</dict>
 	<key>method</key>
 	<string>release-testing</string>
 	<key>signingStyle</key>

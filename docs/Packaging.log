@@ -1,383 +1,381 @@
-2025-06-09 23:49:42 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x35e4171b0; archive(resolved)="<IDEArchive: 0x60002ac04b60>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	Chain (16, self inclusive):
-	<IDEDistributionProcessingPipelineContext: 0x35e4171b0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionProcessingPipelineContext: 0x35e416f20; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x360799640; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x3607356d0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x3607354c0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x360736580; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x35e955330; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x35e9410a0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x35609e510; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001527dc40; teamID='A8W276BMB8', teamName='MITSUFUJI CORPORATION', teamType='Company', username='soujyun.shibata@mitsufuji.co.jp', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x357e6cf70; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="(null)">
-	<IDEDistributionContext: 0x35ed74d40; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="(null)">
-	<IDEDistributionContext: 0x36077cec0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="(null)">
-	<IDEDistributionContext: 0x3559e85e0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600004545eb0>", team="(null)">
-	<IDEDistributionContext: 0x1496b4ce0; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="(null)", team="(null)">
-	<IDEDistributionContext: 0x3607f3030; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="(null)", team="(null)">
-	<IDEDistributionContext: 0x3607abb10; archive = "<IDEArchive: 0x60002ac04b60>", distributionMethod="(null)", team="(null)">
-</IDEDistributionProcessingPipelineContext: 0x35e4171b0>
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionCreateDestRootStep
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionCopyItemStep
-2025-06-09 23:49:42 +0000  Running /usr/bin/ditto '-V' '/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app' '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app'
-2025-06-09 23:49:42 +0000  >>> Copying /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app 
-2025-06-09 23:49:42 +0000  copying file ./_CodeSignature/CodeResources ... 
-2025-06-09 23:49:42 +0000  20907 bytes for ./_CodeSignature/CodeResources
-2025-06-09 23:49:42 +0000  copying file ./ja.lproj/Localizable.strings ... 
-2025-06-09 23:49:42 +0000  2825 bytes for ./ja.lproj/Localizable.strings
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  855 bytes for ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCore.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  697 bytes for ./Firebase_FirebaseCore.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  1383 bytes for ./Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCrashlytics.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  711 bytes for ./Firebase_FirebaseCrashlytics.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./en.lproj/Localizable.strings ... 
-2025-06-09 23:49:42 +0000  2725 bytes for ./en.lproj/Localizable.strings
-2025-06-09 23:49:42 +0000  copying file ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  374 bytes for ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./nanopb_nanopb.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  671 bytes for ./nanopb_nanopb.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./AppIcon60x60@2x.png ... 
-2025-06-09 23:49:42 +0000  3878 bytes for ./AppIcon60x60@2x.png
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  749 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  723 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  1105 bytes for ./Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseInstallations.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  715 bytes for ./Firebase_FirebaseInstallations.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  855 bytes for ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  713 bytes for ./Firebase_FirebaseCoreInternal.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./03CMSApp ... 
-2025-06-09 23:49:42 +0000  12256256 bytes for ./03CMSApp
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  723 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  735 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Realm_Realm.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  812 bytes for ./Realm_Realm.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Realm_Realm.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  673 bytes for ./Realm_Realm.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  2357 bytes for ./Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseMessaging.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  707 bytes for ./Firebase_FirebaseMessaging.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleService-Info.plist ... 
-2025-06-09 23:49:42 +0000  483 bytes for ./GoogleService-Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  812 bytes for ./Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Realm_RealmSwift.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  685 bytes for ./Realm_RealmSwift.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  1105 bytes for ./GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleDataTransport_GoogleDataTransport.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  725 bytes for ./GoogleDataTransport_GoogleDataTransport.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  373 bytes for ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Promises_FBLPromises.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  687 bytes for ./Promises_FBLPromises.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  856 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  725 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Assets.car ... 
-2025-06-09 23:49:42 +0000  517952 bytes for ./Assets.car
-2025-06-09 23:49:42 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
-2025-06-09 23:49:42 +0000  4856 bytes for ./AppIcon76x76@2x~ipad.png
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  478 bytes for ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  715 bytes for ./Firebase_FirebaseCoreExtension.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  911 bytes for ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  735 bytes for ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Promises_Promises.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  373 bytes for ./Promises_Promises.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./Promises_Promises.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  681 bytes for ./Promises_Promises.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  855 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  733 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/RealmSwift.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:42 +0000  1798 bytes for ./Frameworks/RealmSwift.framework/_CodeSignature/CodeResources
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/RealmSwift.framework/RealmSwift ... 
-2025-06-09 23:49:42 +0000  49372448 bytes for ./Frameworks/RealmSwift.framework/RealmSwift
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/RealmSwift.framework/Info.plist ... 
+2025-06-10 00:38:10 +0000 [MT] Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x1131343e0; archive(resolved)="<IDEArchive: 0x60000290dce0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team(resolved)="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x1131343e0; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionProcessingPipelineContext: 0x134fabb30; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x11315f610; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x134e6d0f0; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x134e6c990; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x134e6c560; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x134e04670; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x134e50590; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x136811910; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="<IDEProvisioningBasicTeam: 0x60000035eaa0; teamID='A8W276BMB8', teamName='(null)'>">
+	<IDEDistributionContext: 0x136811580; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="(null)">
+	<IDEDistributionContext: 0x136810a60; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="(null)">
+	<IDEDistributionContext: 0x136810650; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="(null)">
+	<IDEDistributionContext: 0x115204980; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000006da90>", team="(null)">
+	<IDEDistributionContext: 0x134e08b60; archive = "<IDEArchive: 0x60000290dce0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x1131343e0>
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionCreateDestRootStep
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionCopyItemStep
+2025-06-10 00:38:10 +0000 [MT] Running /usr/bin/ditto '-V' '/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app' '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app'
+2025-06-10 00:38:10 +0000  >>> Copying /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app 
+2025-06-10 00:38:10 +0000  copying file ./_CodeSignature/CodeResources ... 
+2025-06-10 00:38:10 +0000  20907 bytes for ./_CodeSignature/CodeResources
+2025-06-10 00:38:10 +0000  copying file ./ja.lproj/Localizable.strings ... 
+2025-06-10 00:38:10 +0000  2825 bytes for ./ja.lproj/Localizable.strings
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  855 bytes for ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCore.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  697 bytes for ./Firebase_FirebaseCore.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  1383 bytes for ./Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCrashlytics.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  711 bytes for ./Firebase_FirebaseCrashlytics.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./en.lproj/Localizable.strings ... 
+2025-06-10 00:38:10 +0000  2725 bytes for ./en.lproj/Localizable.strings
+2025-06-10 00:38:10 +0000  copying file ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  374 bytes for ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./nanopb_nanopb.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  671 bytes for ./nanopb_nanopb.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./AppIcon60x60@2x.png ... 
+2025-06-10 00:38:10 +0000  3878 bytes for ./AppIcon60x60@2x.png
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  749 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  723 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  1105 bytes for ./Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseInstallations.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  715 bytes for ./Firebase_FirebaseInstallations.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  855 bytes for ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  713 bytes for ./Firebase_FirebaseCoreInternal.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./03CMSApp ... 
+2025-06-10 00:38:10 +0000  12256256 bytes for ./03CMSApp
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
+478 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
+copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
+723 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  735 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Realm_Realm.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  812 bytes for ./Realm_Realm.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Realm_Realm.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  673 bytes for ./Realm_Realm.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  2357 bytes for ./Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseMessaging.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  707 bytes for ./Firebase_FirebaseMessaging.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleService-Info.plist ... 
+2025-06-10 00:38:10 +0000  483 bytes for ./GoogleService-Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  812 bytes for ./Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Realm_RealmSwift.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  685 bytes for ./Realm_RealmSwift.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  1105 bytes for ./GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleDataTransport_GoogleDataTransport.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  725 bytes for ./GoogleDataTransport_GoogleDataTransport.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  373 bytes for ./Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Promises_FBLPromises.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  687 bytes for ./Promises_FBLPromises.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  856 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  725 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Assets.car ... 
+2025-06-10 00:38:10 +0000  517952 bytes for ./Assets.car
+2025-06-10 00:38:10 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2025-06-10 00:38:10 +0000  4856 bytes for ./AppIcon76x76@2x~ipad.png
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  478 bytes for ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  715 bytes for ./Firebase_FirebaseCoreExtension.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  911 bytes for ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  735 bytes for ./GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Promises_Promises.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  373 bytes for ./Promises_Promises.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./Promises_Promises.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  681 bytes for ./Promises_Promises.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  855 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  733 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/RealmSwift.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:10 +0000  1798 bytes for ./Frameworks/RealmSwift.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/RealmSwift.framework/RealmSwift ... 
+2025-06-10 00:38:10 +0000  49372448 bytes for ./Frameworks/RealmSwift.framework/RealmSwift
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/RealmSwift.framework/Info.plist ... 
 757 bytes for ./Frameworks/RealmSwift.framework/Info.plist
 copying file ./Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:42 +0000  1798 bytes for ./Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources
+1798 bytes for ./Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources
 copying file ./Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement ... 
-2025-06-09 23:49:42 +0000  51488 bytes for ./Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurement.framework/Info.plist ... 
-2025-06-09 23:49:42 +0000  1551 bytes for ./Frameworks/GoogleAppMeasurement.framework/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:42 +0000  1798 bytes for ./Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics ... 
-2025-06-09 23:49:42 +0000  51488 bytes for ./Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/FirebaseAnalytics.framework/Info.plist ... 
-2025-06-09 23:49:42 +0000  1542 bytes for ./Frameworks/FirebaseAnalytics.framework/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:42 +0000  1798 bytes for ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion ... 
-2025-06-09 23:49:42 +0000  51536 bytes for ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist ... 
-2025-06-09 23:49:42 +0000  835 bytes for ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:42 +0000  1798 bytes for ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport ... 
-2025-06-09 23:49:42 +0000  51520 bytes for ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport
-2025-06-09 23:49:42 +0000  copying file ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist ... 
-2025-06-09 23:49:42 +0000  1596 bytes for ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  739 bytes for ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:42 +0000  812 bytes for ./RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:42 +0000  copying file ./RealmDatabase_RealmCoreResources.bundle/Info.plist ... 
-2025-06-09 23:49:42 +0000  708 bytes for ./RealmDatabase_RealmCoreResources.bundle/Info.plist
-2025-06-09 23:49:42 +0000  copying file ./embedded.mobileprovision ... 
-2025-06-09 23:49:42 +0000  45489 bytes for ./embedded.mobileprovision
-2025-06-09 23:49:42 +0000  copying file ./Info.plist ... 
-2025-06-09 23:49:42 +0000  1644 bytes for ./Info.plist
-2025-06-09 23:49:42 +0000  copying file ./PkgInfo ... 
-2025-06-09 23:49:42 +0000  8 bytes for ./PkgInfo
-2025-06-09 23:49:42 +0000  /usr/bin/ditto exited with 0
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionEmbedProfileStep
-2025-06-09 23:49:42 +0000  Skipping profile for item: <IDEDistributionItem: 0x6000423f3c00; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x60002af48e70:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bfe80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017daf300; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:10 +0000  51488 bytes for ./Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurement.framework/Info.plist ... 
+2025-06-10 00:38:10 +0000  1551 bytes for ./Frameworks/GoogleAppMeasurement.framework/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:10 +0000  1798 bytes for ./Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics ... 
+2025-06-10 00:38:10 +0000  51488 bytes for ./Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/FirebaseAnalytics.framework/Info.plist ... 
+2025-06-10 00:38:10 +0000  1542 bytes for ./Frameworks/FirebaseAnalytics.framework/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:10 +0000  1798 bytes for ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion ... 
+2025-06-10 00:38:10 +0000  51536 bytes for ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist ... 
+2025-06-10 00:38:10 +0000  835 bytes for ./Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:10 +0000  1798 bytes for ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport ... 
+2025-06-10 00:38:10 +0000  51520 bytes for ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport
+2025-06-10 00:38:10 +0000  copying file ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist ... 
+2025-06-10 00:38:10 +0000  1596 bytes for ./Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  739 bytes for ./GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:10 +0000  812 bytes for ./RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:10 +0000  copying file ./RealmDatabase_RealmCoreResources.bundle/Info.plist ... 
+2025-06-10 00:38:10 +0000  708 bytes for ./RealmDatabase_RealmCoreResources.bundle/Info.plist
+2025-06-10 00:38:10 +0000  copying file ./embedded.mobileprovision ... 
+2025-06-10 00:38:10 +0000  45489 bytes for ./embedded.mobileprovision
+2025-06-10 00:38:10 +0000  copying file ./Info.plist ... 
+2025-06-10 00:38:10 +0000  1644 bytes for ./Info.plist
+2025-06-10 00:38:10 +0000  copying file ./PkgInfo ... 
+2025-06-10 00:38:10 +0000  8 bytes for ./PkgInfo
+2025-06-10 00:38:10 +0000 [MT] /usr/bin/ditto exited with 0
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionEmbedProfileStep
+2025-06-10 00:38:10 +0000 [MT] Skipping profile for item: <IDEDistributionItem: 0x60000269f960; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x6000029d80e0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e2b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375f180; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x60002af48690:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'>
-2025-06-09 23:49:42 +0000  Skipping profile for item: <IDEDistributionItem: 0x60003e255aa0; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x60002af43720:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bec10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017daf300; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x6000029d83f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'>
+2025-06-10 00:38:10 +0000 [MT] Skipping profile for item: <IDEDistributionItem: 0x6000026a5080; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x6000029d08c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e0370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375f180; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x60002af42680:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'>
-2025-06-09 23:49:42 +0000  Skipping profile for item: <IDEDistributionItem: 0x6000423f2100; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x60001e937380:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017daf300; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x6000029a4000:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'>
+2025-06-10 00:38:10 +0000 [MT] Skipping profile for item: <IDEDistributionItem: 0x6000026a5020; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x600002e3c180:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021fd950; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375f180; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x60001e937400:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'>
-2025-06-09 23:49:42 +0000  Skipping profile for item: <IDEDistributionItem: 0x6000423f3cc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x6000234643f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bb3e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017daf300; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x600002e3c100:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'>
+2025-06-10 00:38:10 +0000 [MT] Skipping profile for item: <IDEDistributionItem: 0x60000269fcc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x60000302c630:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221c460; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374a7c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x60001e937480:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'>
-2025-06-09 23:49:42 +0000  Skipping profile for item: <IDEDistributionItem: 0x6000423f3ba0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x60002af42300:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017daf300; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x600002e3c200:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'>
+2025-06-10 00:38:10 +0000 [MT] Skipping profile for item: <IDEDistributionItem: 0x600002663ea0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x6000029bec30:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221ea80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374a7c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x60003edd30c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'>
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionInfoPlistStep
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionAppThinningPlistStep
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionSymbolsStep
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionAppThinningStep
-2025-06-09 23:49:42 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionArchThinningStep
-2025-06-09 23:49:42 +0000  Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
-2025-06-09 23:49:42 +0000  Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework are ["arm64e"]
-2025-06-09 23:49:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics' '-verify_arch' 'arm64e'
-2025-06-09 23:49:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2025-06-09 23:49:42 +0000  Skipping architecture thinning for item "FirebaseAnalytics" because arch "arm64e" wasn't found
-2025-06-09 23:49:42 +0000  Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
-2025-06-09 23:49:42 +0000  Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework are ["arm64e"]
-2025-06-09 23:49:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement' '-verify_arch' 'arm64e'
-2025-06-09 23:49:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2025-06-09 23:49:42 +0000  Skipping architecture thinning for item "GoogleAppMeasurement" because arch "arm64e" wasn't found
-2025-06-09 23:49:42 +0000  Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
-2025-06-09 23:49:42 +0000  Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework are ["arm64e"]
-2025-06-09 23:49:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport' '-verify_arch' 'arm64e'
-2025-06-09 23:49:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2025-06-09 23:49:42 +0000  Skipping architecture thinning for item "GoogleAppMeasurementIdentitySupport" because arch "arm64e" wasn't found
-2025-06-09 23:49:42 +0000  Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
-2025-06-09 23:49:42 +0000  Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework are ["arm64e"]
-2025-06-09 23:49:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion' '-verify_arch' 'arm64e'
-2025-06-09 23:49:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2025-06-09 23:49:42 +0000  Skipping architecture thinning for item "GoogleAppMeasurementOnDeviceConversion" because arch "arm64e" wasn't found
-2025-06-09 23:49:42 +0000  Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
-2025-06-09 23:49:42 +0000  Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework are ["arm64e"]
-2025-06-09 23:49:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift' '-verify_arch' 'arm64e'
-2025-06-09 23:49:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2025-06-09 23:49:42 +0000  Skipping architecture thinning for item "RealmSwift" because arch "arm64e" wasn't found
-2025-06-09 23:49:42 +0000  Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
-2025-06-09 23:49:42 +0000  Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app are ["arm64e"]
-2025-06-09 23:49:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/03CMSApp' '-verify_arch' 'arm64e'
-2025-06-09 23:49:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2025-06-09 23:49:42 +0000  Skipping architecture thinning for item "03CMSApp" because arch "arm64e" wasn't found
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionODRStep
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionStripXattrsStep
-2025-06-09 23:49:42 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-06-09 23:49:42 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-06-09 23:49:42 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-06-09 23:49:42 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-06-09 23:49:42 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-06-09 23:49:42 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-06-09 23:49:42 +0000  Processing step: IDEDistributionCodesignStep
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f3c00; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x60002af48e70:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bfe80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18600; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x6000026a0cc0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'>
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionInfoPlistStep
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionAppThinningPlistStep
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionSymbolsStep
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionSymbolsStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionAppThinningStep
+2025-06-10 00:38:10 +0000 [MT] Skipping step: IDEDistributionAppThinningStep because it said so
+2025-06-10 00:38:10 +0000 [MT] Processing step: IDEDistributionArchThinningStep
+2025-06-10 00:38:10 +0000 [MT] Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-06-10 00:38:10 +0000 [MT] Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework are ["arm64e"]
+2025-06-10 00:38:10 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics' '-verify_arch' 'arm64e'
+2025-06-10 00:38:11 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-06-10 00:38:11 +0000 [MT] Skipping architecture thinning for item "FirebaseAnalytics" because arch "arm64e" wasn't found
+2025-06-10 00:38:11 +0000 [MT] Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework are ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement' '-verify_arch' 'arm64e'
+2025-06-10 00:38:11 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-06-10 00:38:11 +0000 [MT] Skipping architecture thinning for item "GoogleAppMeasurement" because arch "arm64e" wasn't found
+2025-06-10 00:38:11 +0000 [MT] Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework are ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport' '-verify_arch' 'arm64e'
+2025-06-10 00:38:11 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-06-10 00:38:11 +0000 [MT] Skipping architecture thinning for item "GoogleAppMeasurementIdentitySupport" because arch "arm64e" wasn't found
+2025-06-10 00:38:11 +0000 [MT] Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework are ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion' '-verify_arch' 'arm64e'
+2025-06-10 00:38:11 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-06-10 00:38:11 +0000 [MT] Skipping architecture thinning for item "GoogleAppMeasurementOnDeviceConversion" because arch "arm64e" wasn't found
+2025-06-10 00:38:11 +0000 [MT] Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework are ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift' '-verify_arch' 'arm64e'
+2025-06-10 00:38:11 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-06-10 00:38:11 +0000 [MT] Skipping architecture thinning for item "RealmSwift" because arch "arm64e" wasn't found
+2025-06-10 00:38:11 +0000 [MT] Item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Archs to thin for item /Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app are ["arm64e"]
+2025-06-10 00:38:11 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/03CMSApp' '-verify_arch' 'arm64e'
+2025-06-10 00:38:11 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-06-10 00:38:11 +0000 [MT] Skipping architecture thinning for item "03CMSApp" because arch "arm64e" wasn't found
+2025-06-10 00:38:11 +0000 [MT] Processing step: IDEDistributionODRStep
+2025-06-10 00:38:11 +0000 [MT] Processing step: IDEDistributionStripXattrsStep
+2025-06-10 00:38:11 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2025-06-10 00:38:11 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2025-06-10 00:38:11 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2025-06-10 00:38:11 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2025-06-10 00:38:11 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2025-06-10 00:38:11 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2025-06-10 00:38:11 +0000 [MT] Processing step: IDEDistributionCodesignStep
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x60000269f960; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x6000029d80e0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e2b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375cb40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x60002af48690:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'>: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x6000029d83f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'>: {
 }
-2025-06-09 23:49:42 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f3c00; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x60002af48e70:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bfe80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d186c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x60000269f960; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x6000029d80e0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e2b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375ca80; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x60002af48690:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'> are: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x6000029d83f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'> are: {
 }
-2025-06-09 23:49:42 +0000  Writing entitlements for <IDEDistributionItem: 0x6000423f3c00; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x60002af48e70:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bfe80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18540; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x60000269f960; bundleID='org.cocoapods.FirebaseAnalytics', path='<DVTFilePath:0x6000029d80e0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e2b70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375d680; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x60002af48690:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~ylqdB4
-2025-06-09 23:49:42 +0000  invoking codesign: <NSConcreteTask: 0x600016621950; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.FirebaseAnalytics', executablePath='<DVTFilePath:0x6000029d83f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~2UWZFA
+2025-06-10 00:38:11 +0000 [MT] invoking codesign: <NSConcreteTask: 0x6000021e6df0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     F4C127C0141D42C651EB0422D7D144ADCB0F072E,
     "--entitlements",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~ylqdB4",
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~2UWZFA",
     "--preserve-metadata=identifier,flags,runtime",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework"
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework"
 )'>
-2025-06-09 23:49:42 +0000  codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework: replacing existing signature
-/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseAnalytics]
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x60003e255aa0; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x60002af43720:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bec10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18600; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework: replacing existing signature
+/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseAnalytics]
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x6000026a5080; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x6000029d08c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e0370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ae80; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x60002af42680:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'>: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x6000029a4000:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'>: {
 }
-2025-06-09 23:49:42 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x60003e255aa0; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x60002af43720:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bec10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d186c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x6000026a5080; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x6000029d08c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e0370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ac40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x60002af42680:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'> are: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x6000029a4000:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'> are: {
 }
-2025-06-09 23:49:42 +0000  Writing entitlements for <IDEDistributionItem: 0x60003e255aa0; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x60002af43720:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bec10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18540; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x6000026a5080; bundleID='org.cocoapods.GoogleAppMeasurement', path='<DVTFilePath:0x6000029d08c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021e0370; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ba80; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x60002af42680:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~bFKLs6
-2025-06-09 23:49:42 +0000  invoking codesign: <NSConcreteTask: 0x6000166203c0; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurement', executablePath='<DVTFilePath:0x6000029a4000:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~aOW54S
+2025-06-10 00:38:11 +0000 [MT] invoking codesign: <NSConcreteTask: 0x60000222d6d0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     F4C127C0141D42C651EB0422D7D144ADCB0F072E,
     "--entitlements",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~bFKLs6",
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~aOW54S",
     "--preserve-metadata=identifier,flags,runtime",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework"
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework"
 )'>
-2025-06-09 23:49:42 +0000  codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework: replacing existing signature
-/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GoogleAppMeasurement]
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f2100; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x60001e937380:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18600; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework: replacing existing signature
+/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GoogleAppMeasurement]
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x6000026a5020; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x600002e3c180:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021fd950; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ae80; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x60001e937400:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'>: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x600002e3c100:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'>: {
 }
-2025-06-09 23:49:42 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f2100; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x60001e937380:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d186c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x6000026a5020; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x600002e3c180:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021fd950; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ac40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x60001e937400:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'> are: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x600002e3c100:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'> are: {
 }
-2025-06-09 23:49:42 +0000  Writing entitlements for <IDEDistributionItem: 0x6000423f2100; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x60001e937380:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1130; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18540; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x6000026a5020; bundleID='org.cocoapods.GoogleAppMeasurementIdentitySupport', path='<DVTFilePath:0x600002e3c180:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000021fd950; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000375cb40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x60001e937400:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~4K8pAT
-2025-06-09 23:49:42 +0000  invoking codesign: <NSConcreteTask: 0x600016627110; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='org.cocoapods.GoogleAppMeasurementIdentitySupport', executablePath='<DVTFilePath:0x600002e3c100:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~MfrW25
+2025-06-10 00:38:11 +0000 [MT] invoking codesign: <NSConcreteTask: 0x6000021e4960; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     F4C127C0141D42C651EB0422D7D144ADCB0F072E,
     "--entitlements",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~4K8pAT",
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~MfrW25",
     "--preserve-metadata=identifier,flags,runtime",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework"
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework"
 )'>
-2025-06-09 23:49:42 +0000  codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework: replacing existing signature
-/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GoogleAppMeasurementIdentitySupport]
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f3cc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x6000234643f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bb3e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18600; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework: replacing existing signature
+/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GoogleAppMeasurementIdentitySupport]
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x60000269fcc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x60000302c630:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221c460; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ae80; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x60001e937480:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'>: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x600002e3c200:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'>: {
 }
-2025-06-09 23:49:42 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f3cc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x6000234643f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bb3e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d186c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x60000269fcc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x60000302c630:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221c460; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ac40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x60001e937480:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'> are: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x600002e3c200:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'> are: {
 }
-2025-06-09 23:49:42 +0000  Writing entitlements for <IDEDistributionItem: 0x6000423f3cc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x6000234643f0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166bb3e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18540; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x60000269fcc0; bundleID='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', path='<DVTFilePath:0x60000302c630:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221c460; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374a700; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x60001e937480:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~sZpDvs
-2025-06-09 23:49:42 +0000  invoking codesign: <NSConcreteTask: 0x6000166203c0; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion', executablePath='<DVTFilePath:0x600002e3c200:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~xJJYMu
+2025-06-10 00:38:11 +0000 [MT] invoking codesign: <NSConcreteTask: 0x60000222ee90; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     F4C127C0141D42C651EB0422D7D144ADCB0F072E,
     "--entitlements",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~sZpDvs",
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~xJJYMu",
     "--preserve-metadata=identifier,flags,runtime",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework"
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework"
 )'>
-2025-06-09 23:49:42 +0000  codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework: replacing existing signature
-/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework: signed bundle with Mach-O universal (arm64) [com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion]
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f3ba0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x60002af42300:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18600; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework: replacing existing signature
+/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework: signed bundle with Mach-O universal (arm64) [com.firebase.Firebase-GoogleAppMeasurementOnDeviceConversion]
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x600002663ea0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x6000029bec30:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221ea80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ae80; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x60003edd30c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'>: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x6000026a0cc0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'>: {
 }
-2025-06-09 23:49:42 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423f3ba0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x60002af42300:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d186c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x600002663ea0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x6000029bec30:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221ea80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ac40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x60003edd30c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'> are: {
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x6000026a0cc0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'> are: {
 }
-2025-06-09 23:49:42 +0000  Writing entitlements for <IDEDistributionItem: 0x6000423f3ba0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x60002af42300:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000166a1590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600013d18540; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x600002663ea0; bundleID='realm-swift.RealmSwift', path='<DVTFilePath:0x6000029bec30:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000221ea80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374a700; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
-), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x60003edd30c0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~KJAb93
-2025-06-09 23:49:42 +0000  invoking codesign: <NSConcreteTask: 0x6000166257c0; launchPath='/usr/bin/codesign', arguments='(
+), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='(null)', teamID='A8W276BMB8', identifier='realm-swift.RealmSwift', executablePath='<DVTFilePath:0x6000026a0cc0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~jjSqWJ
+2025-06-10 00:38:11 +0000 [MT] invoking codesign: <NSConcreteTask: 0x60000222ee90; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     F4C127C0141D42C651EB0422D7D144ADCB0F072E,
     "--entitlements",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~KJAb93",
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~jjSqWJ",
     "--preserve-metadata=identifier,flags,runtime",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework"
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework"
 )'>
-2025-06-09 23:49:42 +0000  codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework: replacing existing signature
-/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework: signed bundle with Mach-O thin (arm64) [realm-swift.RealmSwift]
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423c0c00; bundleID='jp.co.mitsufuji.03cms.app.dev', path='<DVTFilePath:0x60003edd0360:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001665e300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017dae1c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework: replacing existing signature
+/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework: signed bundle with Mach-O thin (arm64) [realm-swift.RealmSwift]
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x60000269db60; bundleID='jp.co.mitsufuji.03cms.app.dev', path='<DVTFilePath:0x600002645260:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000022141e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374ac40; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='{
@@ -385,14 +383,14 @@ copying file ./Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement ..
     "aps-environment" = development;
     "com.apple.developer.team-identifier" = A8W276BMB8;
     "get-task-allow" = 1;
-}', teamID='A8W276BMB8', identifier='jp.co.mitsufuji.03cms.app.dev', executablePath='<DVTFilePath:0x60003edd11a0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/03CMSApp'>', hardenedRuntime='0'>'>: {
+}', teamID='A8W276BMB8', identifier='jp.co.mitsufuji.03cms.app.dev', executablePath='<DVTFilePath:0x600002697660:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/03CMSApp'>', hardenedRuntime='0'>'>: {
     "application-identifier" = "A8W276BMB8.jp.co.mitsufuji.03cms.app.dev";
     "aps-environment" = production;
     "com.apple.developer.team-identifier" = A8W276BMB8;
     "get-task-allow" = 0;
 }
-2025-06-09 23:49:42 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-06-09 23:49:42 +0000  Entitlements for <IDEDistributionItem: 0x6000423c0c00; bundleID='jp.co.mitsufuji.03cms.app.dev', path='<DVTFilePath:0x60003edd0360:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001665e300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017daf300; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-06-10 00:38:11 +0000 [MT] Entitlements for <IDEDistributionItem: 0x60000269db60; bundleID='jp.co.mitsufuji.03cms.app.dev', path='<DVTFilePath:0x600002645260:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000022141e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374a4c0; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='{
@@ -400,13 +398,13 @@ copying file ./Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement ..
     "aps-environment" = development;
     "com.apple.developer.team-identifier" = A8W276BMB8;
     "get-task-allow" = 1;
-}', teamID='A8W276BMB8', identifier='jp.co.mitsufuji.03cms.app.dev', executablePath='<DVTFilePath:0x60003edd11a0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/03CMSApp'>', hardenedRuntime='0'>'> are: {
+}', teamID='A8W276BMB8', identifier='jp.co.mitsufuji.03cms.app.dev', executablePath='<DVTFilePath:0x600002697660:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/03CMSApp'>', hardenedRuntime='0'>'> are: {
     "application-identifier" = "A8W276BMB8.jp.co.mitsufuji.03cms.app.dev";
     "aps-environment" = production;
     "com.apple.developer.team-identifier" = A8W276BMB8;
     "get-task-allow" = 0;
 }
-2025-06-09 23:49:42 +0000  Writing entitlements for <IDEDistributionItem: 0x6000423c0c00; bundleID='jp.co.mitsufuji.03cms.app.dev', path='<DVTFilePath:0x60003edd0360:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001665e300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600017dad380; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
+2025-06-10 00:38:11 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x60000269db60; bundleID='jp.co.mitsufuji.03cms.app.dev', path='<DVTFilePath:0x600002645260:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000022141e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000374a400; name='Apple Development: 柴田 壮潤 (S769ULN46S)', hash='972A6FDECFEBF13E67A0AEEF053053DF06D97E93', serialNumber='28BA18944A6295304A36438094854E08', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2025-05-25 11:49:47 +0000''>', entitlements='{
@@ -414,175 +412,175 @@ copying file ./Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement ..
     "aps-environment" = development;
     "com.apple.developer.team-identifier" = A8W276BMB8;
     "get-task-allow" = 1;
-}', teamID='A8W276BMB8', identifier='jp.co.mitsufuji.03cms.app.dev', executablePath='<DVTFilePath:0x60003edd11a0:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging 2025-06-10, 8.44.xcarchive/Products/Applications/03CMSApp.app/03CMSApp'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~fJRkXe
-2025-06-09 23:49:42 +0000  invoking codesign: <NSConcreteTask: 0x6000166228f0; launchPath='/usr/bin/codesign', arguments='(
+}', teamID='A8W276BMB8', identifier='jp.co.mitsufuji.03cms.app.dev', executablePath='<DVTFilePath:0x600002697660:'/Users/sojunshibata/Library/Developer/Xcode/Archives/2025-06-10/03CMSApp-Staging2025-06-10.xcarchive/Products/Applications/03CMSApp.app/03CMSApp'>', hardenedRuntime='0'>'> to: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~GOip2Q
+2025-06-10 00:38:11 +0000 [MT] invoking codesign: <NSConcreteTask: 0x60000222d810; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
     F4C127C0141D42C651EB0422D7D144ADCB0F072E,
     "--entitlements",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/entitlements~~~fJRkXe",
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/entitlements~~~GOip2Q",
     "--preserve-metadata=identifier,flags,runtime",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app"
+    "/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app"
 )'>
-2025-06-09 23:49:43 +0000  codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app: replacing existing signature
-/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app: signed app bundle with Mach-O thin (arm64) [jp.co.mitsufuji.03cms.app.dev]
-2025-06-09 23:49:43 +0000  Processing step: IDEDistributionZipODRItemStep
-2025-06-09 23:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-06-09 23:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-06-09 23:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-06-09 23:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-06-09 23:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-06-09 23:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-06-09 23:49:43 +0000  Processing step: IDEDistributionCreateIPAStep
-2025-06-09 23:49:43 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root' '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Packages/03CMSApp.ipa'
-2025-06-09 23:49:43 +0000  >>> Copying /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root 
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:43 +0000  20907 bytes for ./Payload/03CMSApp.app/_CodeSignature/CodeResources
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/ja.lproj/Localizable.strings ... 
-2025-06-09 23:49:43 +0000  2825 bytes for ./Payload/03CMSApp.app/ja.lproj/Localizable.strings
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  855 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  697 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  1383 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy
-copying file ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  711 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/en.lproj/Localizable.strings ... 
-2025-06-09 23:49:43 +0000  2725 bytes for ./Payload/03CMSApp.app/en.lproj/Localizable.strings
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  374 bytes for ./Payload/03CMSApp.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/nanopb_nanopb.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  671 bytes for ./Payload/03CMSApp.app/nanopb_nanopb.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/AppIcon60x60@2x.png ... 
-2025-06-09 23:49:43 +0000  3878 bytes for ./Payload/03CMSApp.app/AppIcon60x60@2x.png
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  749 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  723 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  1105 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  715 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  855 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  713 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/03CMSApp ... 
-2025-06-09 23:49:43 +0000  12256272 bytes for ./Payload/03CMSApp.app/03CMSApp
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000 [MT] codesign output: /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app: replacing existing signature
+/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app: signed app bundle with Mach-O thin (arm64) [jp.co.mitsufuji.03cms.app.dev]
+2025-06-10 00:38:11 +0000 [MT] Processing step: IDEDistributionZipODRItemStep
+2025-06-10 00:38:11 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-06-10 00:38:11 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-06-10 00:38:11 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-06-10 00:38:11 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-06-10 00:38:11 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-06-10 00:38:11 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-06-10 00:38:11 +0000 [MT] Processing step: IDEDistributionCreateIPAStep
+2025-06-10 00:38:11 +0000 [MT] Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root' '/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Packages/03CMSApp.ipa'
+2025-06-10 00:38:11 +0000  >>> Copying /var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root 
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:11 +0000  20907 bytes for ./Payload/03CMSApp.app/_CodeSignature/CodeResources
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/ja.lproj/Localizable.strings ... 
+2025-06-10 00:38:11 +0000  2825 bytes for ./Payload/03CMSApp.app/ja.lproj/Localizable.strings
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  855 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  697 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCore.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  1383 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  711 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCrashlytics.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/en.lproj/Localizable.strings ... 
+2025-06-10 00:38:11 +0000  2725 bytes for ./Payload/03CMSApp.app/en.lproj/Localizable.strings
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  374 bytes for ./Payload/03CMSApp.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/nanopb_nanopb.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  671 bytes for ./Payload/03CMSApp.app/nanopb_nanopb.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/AppIcon60x60@2x.png ... 
+2025-06-10 00:38:11 +0000  3878 bytes for ./Payload/03CMSApp.app/AppIcon60x60@2x.png
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  749 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  723 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  1105 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  715 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseInstallations.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:11 +0000  855 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
+2025-06-10 00:38:11 +0000  713 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreInternal.bundle/Info.plist
+2025-06-10 00:38:11 +0000  copying file ./Payload/03CMSApp.app/03CMSApp ... 
+2025-06-10 00:38:12 +0000  12256272 bytes for ./Payload/03CMSApp.app/03CMSApp
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  723 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:12 +0000  723 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  735 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Realm_Realm.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  812 bytes for ./Payload/03CMSApp.app/Realm_Realm.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Realm_Realm.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  673 bytes for ./Payload/03CMSApp.app/Realm_Realm.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  2357 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  707 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleService-Info.plist ... 
-2025-06-09 23:49:43 +0000  483 bytes for ./Payload/03CMSApp.app/GoogleService-Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  812 bytes for ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  685 bytes for ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  1105 bytes for ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  725 bytes for ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  373 bytes for ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  687 bytes for ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  856 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  725 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Assets.car ... 
-2025-06-09 23:49:43 +0000  517952 bytes for ./Payload/03CMSApp.app/Assets.car
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/AppIcon76x76@2x~ipad.png ... 
-2025-06-09 23:49:43 +0000  4856 bytes for ./Payload/03CMSApp.app/AppIcon76x76@2x~ipad.png
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  478 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  715 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  911 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  735 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Promises_Promises.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  373 bytes for ./Payload/03CMSApp.app/Promises_Promises.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Promises_Promises.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  681 bytes for ./Payload/03CMSApp.app/Promises_Promises.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:43 +0000  855 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
-2025-06-09 23:49:43 +0000  733 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:43 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/_CodeSignature/CodeResources
-2025-06-09 23:49:43 +0000  copying file ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift ... 
-2025-06-09 23:49:44 +0000  49372448 bytes for ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/Info.plist ... 
+2025-06-10 00:38:12 +0000  735 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Realm_Realm.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  812 bytes for ./Payload/03CMSApp.app/Realm_Realm.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/03CMSApp.app/Realm_Realm.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  673 bytes for ./Payload/03CMSApp.app/Realm_Realm.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  2357 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  707 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseMessaging.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleService-Info.plist ... 
+483 bytes for ./Payload/03CMSApp.app/GoogleService-Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  812 bytes for ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  685 bytes for ./Payload/03CMSApp.app/Realm_RealmSwift.bundle/Info.plist
+copying file ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  1105 bytes for ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  725 bytes for ./Payload/03CMSApp.app/GoogleDataTransport_GoogleDataTransport.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy ... 
+373 bytes for ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/Info.plist ... 
+687 bytes for ./Payload/03CMSApp.app/Promises_FBLPromises.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  856 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  725 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
+copying file ./Payload/03CMSApp.app/Assets.car ... 
+2025-06-10 00:38:12 +0000  517952 bytes for ./Payload/03CMSApp.app/Assets.car
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/AppIcon76x76@2x~ipad.png ... 
+2025-06-10 00:38:12 +0000  4856 bytes for ./Payload/03CMSApp.app/AppIcon76x76@2x~ipad.png
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  478 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  715 bytes for ./Payload/03CMSApp.app/Firebase_FirebaseCoreExtension.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  911 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  735 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Promises_Promises.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  373 bytes for ./Payload/03CMSApp.app/Promises_Promises.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Promises_Promises.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  681 bytes for ./Payload/03CMSApp.app/Promises_Promises.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:12 +0000  855 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
+2025-06-10 00:38:12 +0000  733 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:12 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:12 +0000  copying file ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift ... 
+2025-06-10 00:38:13 +0000  49372448 bytes for ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/RealmSwift
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/Info.plist ... 
 757 bytes for ./Payload/03CMSApp.app/Frameworks/RealmSwift.framework/Info.plist
-copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources ... 
-1798 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:13 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources
 copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement ... 
-2025-06-09 23:49:44 +0000  51504 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement
-copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/Info.plist ... 
+2025-06-10 00:38:13 +0000  51504 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/Info.plist ... 
 1551 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework/Info.plist
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:44 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:13 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources
 copying file ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics ... 
-2025-06-09 23:49:44 +0000  51488 bytes for ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/Info.plist ... 
+2025-06-10 00:38:13 +0000  51488 bytes for ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/Info.plist ... 
 1542 bytes for ./Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework/Info.plist
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:44 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources
-copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion ... 
-2025-06-09 23:49:44 +0000  51552 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist ... 
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:13 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion ... 
+2025-06-10 00:38:13 +0000  51552 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/GoogleAppMeasurementOnDeviceConversion
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist ... 
 835 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework/Info.plist
-copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources ... 
-2025-06-09 23:49:44 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources ... 
+2025-06-10 00:38:13 +0000  1798 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources
 copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport ... 
-2025-06-09 23:49:44 +0000  51536 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist ... 
+2025-06-10 00:38:13 +0000  51536 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist ... 
 1596 bytes for ./Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy ... 
-478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:13 +0000  478 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist ... 
-2025-06-09 23:49:44 +0000  739 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist
-copying file ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy ... 
-2025-06-09 23:49:44 +0000  812 bytes for ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy
+739 bytes for ./Payload/03CMSApp.app/GoogleUtilities_GoogleUtilities-MethodSwizzler.bundle/Info.plist
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy ... 
+2025-06-10 00:38:13 +0000  812 bytes for ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/PrivacyInfo.xcprivacy
 copying file ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/Info.plist ... 
-2025-06-09 23:49:44 +0000  708 bytes for ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/Info.plist
+2025-06-10 00:38:13 +0000  708 bytes for ./Payload/03CMSApp.app/RealmDatabase_RealmCoreResources.bundle/Info.plist
 copying file ./Payload/03CMSApp.app/embedded.mobileprovision ... 
-2025-06-09 23:49:44 +0000  27088 bytes for ./Payload/03CMSApp.app/embedded.mobileprovision
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/Info.plist ... 
-1644 bytes for ./Payload/03CMSApp.app/Info.plist
-2025-06-09 23:49:44 +0000  copying file ./Payload/03CMSApp.app/PkgInfo ... 
+2025-06-10 00:38:13 +0000  27088 bytes for ./Payload/03CMSApp.app/embedded.mobileprovision
+2025-06-10 00:38:13 +0000  copying file ./Payload/03CMSApp.app/Info.plist ... 
+2025-06-10 00:38:13 +0000  1644 bytes for ./Payload/03CMSApp.app/Info.plist
+copying file ./Payload/03CMSApp.app/PkgInfo ... 
 8 bytes for ./Payload/03CMSApp.app/PkgInfo
-2025-06-09 23:49:44 +0000  /usr/bin/ditto exited with 0
-2025-06-09 23:49:44 +0000  Processing step: IDEDistributionAppStoreInformationStep
-2025-06-09 23:49:44 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
-2025-06-09 23:49:44 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
-2025-06-09 23:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x600026e1a5a0:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework'>
-2025-06-09 23:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x600026e1b800:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>
-2025-06-09 23:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x600026e1b4f0:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>
-2025-06-09 23:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x60001f573c30:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>
-2025-06-09 23:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x60001e887c00:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>
-2025-06-09 23:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x60003ed694a0:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~B4FqBI/Root/Payload/03CMSApp.app'>
-2025-06-09 23:49:44 +0000  Processing step: IDEDistributionCreateManifestStep
+2025-06-10 00:38:13 +0000 [MT] /usr/bin/ditto exited with 0
+2025-06-10 00:38:13 +0000 [MT] Processing step: IDEDistributionAppStoreInformationStep
+2025-06-10 00:38:13 +0000 [MT] Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2025-06-10 00:38:13 +0000 [MT] Processing step: IDEDistributionGenerateProcessedDistributionItems
+2025-06-10 00:38:13 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x600002d0be80:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework'>
+2025-06-10 00:38:13 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x6000029a1b20:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/FirebaseAnalytics.framework'>
+2025-06-10 00:38:13 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x6000029a1e30:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/RealmSwift.framework'>
+2025-06-10 00:38:13 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x60000304d8c0:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurementOnDeviceConversion.framework'>
+2025-06-10 00:38:13 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x6000029a1c00:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app/Frameworks/GoogleAppMeasurement.framework'>
+2025-06-10 00:38:13 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x6000027166a0:'/var/folders/91/2tdb37ln2m709y4x9tgktzkr0000gn/T/XcodeDistPipeline.~~~ZLG5Lh/Root/Payload/03CMSApp.app'>
+2025-06-10 00:38:13 +0000 [MT] Processing step: IDEDistributionCreateManifestStep
